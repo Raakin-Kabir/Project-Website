@@ -1,0 +1,15 @@
+.intro_text{
+    padding-left: 500px;
+    padding-top: 100px;
+}
+
+.intro_image{
+    padding-left: 100px;
+    margin-top: -100px;
+}
+
+.intro_list{
+    list-style-type: square;
+    font-size: large;
+    margin-left: -25px;
+}
