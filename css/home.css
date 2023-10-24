@@ -1,3 +1,20 @@
 .top_of_home{
-    padding-left: 35%;
+    text-align: center;
+    color: white;
+}
+
+.row_of_projects h3{
+    display: inline-block;
+    padding-right: 200px;
+    color: white;
+}
+
+.search{
+    padding-left: 85%;
+    display: inline-block;
+}
+
+body {
+    background-image: url("../../../Desktop/Desktop/Images/moon-red-night-sky-forest-scenery-uhdpaper.com-hd-6.2202.jpg");
+    background-size: 1500px 900px;
 }

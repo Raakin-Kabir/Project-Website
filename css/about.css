@@ -1,6 +1,7 @@
 .intro_text{
     padding-left: 500px;
     padding-top: 100px;
+    color: white;
 }
 
 .intro_image{
@@ -12,4 +13,9 @@
     list-style-type: square;
     font-size: large;
     margin-left: -25px;
+}
+
+body {
+    background-image: url("../../../Desktop/Desktop/Images/moon-red-night-sky-forest-scenery-uhdpaper.com-hd-6.2202.jpg");
+    background-size: 50%;
 }
